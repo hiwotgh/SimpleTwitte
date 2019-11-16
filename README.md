@@ -1,6 +1,6 @@
-# Project 2 - *Twitter Client - Part 1
+# Project 2 - Twitter Client - Part 1
 
-**SimpleTwitte** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+SimpleTwitte is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **X** hours spent in total
 
@@ -37,6 +37,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/hiwotgh/SimpleTwitte/blob/master/walkthrough.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
